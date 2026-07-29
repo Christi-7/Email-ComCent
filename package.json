@@ -1,0 +1,7 @@
+{
+  "name": "email-command-center",
+  "version": "1.0.0",
+  "description": "Email Command Center — a review-and-authorize inbox UI powered by an OnDemand agent.",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
